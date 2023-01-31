@@ -31,7 +31,7 @@
 
   - :zap: In my free time, I try to expand my knowledge on Computer Science by taking online courses and attempting coding challenges.
 
-  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/manuel-bs)
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/manuel-bs)
 
   
 ---
