@@ -9,10 +9,7 @@
   </a>
   <a href="https://twitter.com/ManuSFC60">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-    <a href="www.linkedin.com/in/manuel-bs">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
+    <img src="https://komarev.com/ghpvc/?username=Mberra6&style=flat-square&color=blue" alt=""/>
 </div>
 
