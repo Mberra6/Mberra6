@@ -12,8 +12,24 @@
 </div>
     <img src="https://komarev.com/ghpvc/?username=Mberra6&style=flat-square&color=blue" alt=""/>
     <h1>
-      hey there
+      Hey there
       <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+  
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :man_technologist: About Me : 
+  I am a Computer Science Undergraduate at Queen Mary University of London <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  - :telescope: My main skill is Web Development as a Full Stack Developer.
+
+  - :seedling: Exploring Internships as Full Stack Developer or Software Engineer.
+
+  - :zap: In my free time, I try to expand my knowledge on Computer Science by taking online courses and attempting coding challenges.
+
+  - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/manuel-bs)
 
