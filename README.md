@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif" width="200"/>
   <div id="badges">
-  <a href="www.linkedin.com/in/manuel-bs">
+  <a href="https://www.linkedin.com/in/manuel-bs/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://mail.google.com/mail/u/?authuser=manuelberrasan@gmail.com">
@@ -31,7 +31,7 @@
 
   - :zap: In my free time, I try to expand my knowledge on Computer Science by taking online courses and attempting coding challenges.
 
-  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/manuel-bs)
+  - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/manuel-bs/)
 
   
 ---
