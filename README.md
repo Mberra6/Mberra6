@@ -7,7 +7,7 @@
   <a href="https://mail.google.com/mail/u/?authuser=manuelberrasan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://twitter.com/ManuSFC60">
+  <a href="https://twitter.com/Mberras6">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </div>
     <img src="https://komarev.com/ghpvc/?username=Mberra6&style=flat-square&color=blue" alt=""/>
