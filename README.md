@@ -24,7 +24,7 @@
 ---
 
 ### :man_technologist: About Me : 
-  I am a Computer Science Undergraduate at Queen Mary University of London <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  I am a Computer Science Undergraduate Student at Queen Mary University of London <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - :telescope: My main skill is Web Development as a Full Stack Developer.
 
   - :seedling: Exploring Internships as Full Stack Developer or Software Engineer.
