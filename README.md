@@ -27,7 +27,7 @@
   I am a Computer Science Undergraduate Student at Queen Mary University of London <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   - :telescope: My main skill is Web Development as a Full Stack Developer.
 
-  - :seedling: Exploring Internships as Full Stack Developer or Software Engineer.
+  - :seedling: Exploring Internships as Full Stack Developer, Software Engineer or Cybersecurity Specialist.
 
   - :zap: In my free time, I try to expand my knowledge on Computer Science by taking online courses and attempting coding challenges.
 
